@@ -11,3 +11,5 @@ print(영어)
 
 print(총점)
 print(평균)
+
+print(np.mean(국어))
