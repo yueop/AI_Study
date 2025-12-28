@@ -15,6 +15,3 @@
 * **Language**: Python
 * **IDE**: VS Code
 * **Library**: numpy, pandas, matplotlib
-
-## 최근 학습 내용
-* [2025-12-22] BWT(Burrows-Wheeler Transform) 압축 알고리즘 구현 완료
